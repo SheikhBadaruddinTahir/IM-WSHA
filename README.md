@@ -11,16 +11,27 @@ Sensor devices: 3
 Subjects: 10
 
 # ACTIVITY SET:
+
 1:Using Computer (1 min)
+
 2:Phone Conversation (1 min)
+
 3:Vaccum Cleaning (1 min)
+
 4:Reading Book (1 min)
+
 5:Watching TV (1 min)
+
 6:Ironing (1 min)
+
 7:Walking (1 min)
+
 8:Exercise (1 min)
+
 9:Cooking (1 min)
+
 10:Drinking (20 x)
+
 11:Brushing Hair (20 x)
 
 # Dataset Visualization:
